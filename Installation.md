@@ -22,7 +22,7 @@ Peloton is known to work on the following platforms. Please note that it will no
     [Git Download](https://git-scm.com/)
     [Virtualbox Download](https://www.virtualbox.org/wiki/Downloads)  
     [Vagrant Download](https://www.vagrantup.com/downloads.html)  
-    [Getting Started with Vagrant on OSX Yosemite](http://coolestguidesontheplanet.com/getting-started-vagrant-os-osx-10-9-mavericks)   
+    [Getting Started with Vagrant on OSX Yosemite](https://web.archive.org/web/20160309165307/http://coolestguidesontheplanet.com/getting-started-vagrant-os-osx-10-9-mavericks)   
     [Getting Started with Vagrant on Windows](http://www.sitepoint.com/getting-started-vagrant-windows/)
 
 2. Clone Peloton repo
